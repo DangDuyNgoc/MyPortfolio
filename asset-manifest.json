@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f8222c08.css",
+    "main.js": "./static/js/main.e9cec96b.js",
+    "static/media/me.jpg": "./static/media/me.5e1bde7985734fa689e1.jpg",
+    "static/media/me-about.jpg": "./static/media/me-about.c7cb2b63a1a865dbf834.jpg",
+    "static/media/CV_Tran_Van_Duc_Front_End_Developer_Intern.pdf": "./static/media/CV_Tran_Van_Duc_Front_End_Developer_Intern.3b29c9954cccc1b1482e.pdf",
+    "static/media/portfolio2.jpg": "./static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "./static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "index.html": "./index.html",
+    "main.f8222c08.css.map": "./static/css/main.f8222c08.css.map",
+    "main.e9cec96b.js.map": "./static/js/main.e9cec96b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8222c08.css",
+    "static/js/main.e9cec96b.js"
+  ]
+}
