@@ -35,10 +35,6 @@
 /* MEDIUM DEVICES */
 
 @media screen and (max-width: 1024px) {
-    #portfolio {
-        height: 60vh;
-    }
-
     .portfolio__container {
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
@@ -46,11 +42,7 @@
 }
 
 /* SMALL DEVICES */
-@media screen and (max-width: 600px) {
-    #portfolio {
-        height: 120vh;
-    }
-
+@media (max-width:739px) {
     .portfolio__container {
         grid-template-columns: 1fr;
         gap: 1rem;

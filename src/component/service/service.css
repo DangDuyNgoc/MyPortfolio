@@ -51,7 +51,6 @@
 }
 
 /* MEDIUM DEVICES */
-
 @media screen and (max-width: 1024px) {
     .service__container {
         grid-template-columns: 1fr 1fr;
@@ -64,17 +63,9 @@
 }
 
 /* SMALL DEVICES */
-@media screen and (max-width: 600px) {
-    #service {
-        height: 150vh;
-    }
-
+@media (max-width:739px) {
     .service__container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
-    }
-
-    section {
-        margin-top: 2em;
     }
 }

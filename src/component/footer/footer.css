@@ -54,7 +54,7 @@ footer a {
 }
 
 /* SMALL DEVICES */
-@media screen and (max-width: 600px) {
+@media (max-width:739px) {
     .permalinks {
         flex-direction: column;
         gap: 1.5rem;

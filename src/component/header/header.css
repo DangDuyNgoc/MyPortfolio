@@ -69,7 +69,7 @@ header {
 }
 
 /* SMALL DEVICES */
-@media screen and (max-width: 600px) {
+@media (max-width:739px) {
     header {
         height: 100vh;
     }
