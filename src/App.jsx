@@ -8,8 +8,6 @@ import Footer from './component/footer/Footer'
 import About from './component/about/About'
 import Experience from './component/experience/Experience'
 import Portfolio from './component/portfolio/Portfolio'
-import Service from './component/service/Service'
-import Testimonial from './component/testimonial/Testimonial'
 
 export const App = () => {
   return (

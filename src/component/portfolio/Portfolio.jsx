@@ -1,6 +1,6 @@
 import React from 'react'
 import './protfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/quiz.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 
 
@@ -8,8 +8,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'ABC',
-    github: 'https://github.com/'    
+    title: 'Quiz App',
+    github: 'https://github.com/DangDuyNgoc/QuizApp.git'    
   },
 
   {
